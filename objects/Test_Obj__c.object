@@ -166,7 +166,7 @@
     <fields>
         <fullName>TestField1__c</fullName>
         <externalId>false</externalId>
-        <label>TestField1</label>
+        <label>TestField1_update</label>
         <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
